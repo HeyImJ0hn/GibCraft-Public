@@ -27,8 +27,6 @@ Command prefix is **/gibcraft** or **/gib**
 - **"gib.admin"** - For staff - Allows players to use regular commands while inside a game/arena.
 
 ## Additional Info:
-When creating an arena, the default status will be "SETTINGUP". Players can only join an arena if the status is "JOINABLE", so make sure to after editing an arena and setting up the lobby to run `/gib setstatus <arena name> joinable` to allow players to play.
-
 When using the `gib setstatus` command a list will of status will be presented so you can have control of when the arena is playable or not.
 
 For any feedback, suggestion or bugs please open an **issue** on the github's [Issue Tracker](https://github.com/HeyImJ0hn/GibCraft-Public/issues).
